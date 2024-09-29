@@ -66,7 +66,7 @@ git clone --recurse-submodules https://github.com/Akegarasu/lora-scripts
 
 #### 安装
 
-运行 `install-cn.ps1` 将自动为您创建虚拟环境并安装必要的依赖。 
+运行 `install-cn.ps1` 将自动为您创建虚拟环境并安装必要的依赖。`install-cn.ps1` 中上交大的镜像没有对于的touch版本，建议换源，不然报错
 
 #### 训练
 
